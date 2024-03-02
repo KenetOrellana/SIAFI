@@ -1,7 +1,7 @@
 <!-- Inicio de Encabezado -->
 <h1 align="center">
   <br>
-  <a href="https://github.com/KenetOrellana/SAMI-BI"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_SEFIN_Honduras.svg" alt="SIAFI vía Internet Shortcut" title="SIAFI vía Internet Shortcut" width="400" height="auto"></a>
+  <a href="https://github.com/KenetOrellana/SIAFI"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_SEFIN_Honduras.svg" alt="SIAFI vía Internet Shortcut" title="SIAFI vía Internet Shortcut" width="400" height="auto"></a>
   <br>
     SIAFI vía Internet Shortcut
   <br>
